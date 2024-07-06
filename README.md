@@ -12,3 +12,6 @@ perform read and write operations from and to a nitrite database. These tests ca
 
 See [the Person class](src/test/java/org/dizitart/nitrite/demo/repository/model/Person.java) for details regarding
 native hints.
+
+> [!NOTE]
+> Deprecated as the code was moved to nitrite via https://github.com/nitrite/nitrite-java/pull/995
