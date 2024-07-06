@@ -22,7 +22,7 @@ public class Person {
     private final Set<Title> titles;
 
     // additional serialization hints are required to serialize boolean fields
-    // this also applies to most other Serializable classes
+    // this also applies to other Serializable classes
     // see: src/test/resources/META-INF/native-image/org.dizitart.nitrite.demo/nitrite-graalvm-demo/serialization-config.json
     private final boolean someBoolean;
 
